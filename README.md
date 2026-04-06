@@ -24,5 +24,8 @@ NHS England RTT waiting times dataset (January 2026)
 - Trauma & Orthopaedics has the largest patient backlog (>800,000 patients)
 - Lower-volume specialties tend to have shorter waiting times
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 ## Output
 A simple Excel dashboard showing waiting times by specialty.
